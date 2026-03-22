@@ -494,9 +494,9 @@
               ></span>
               <span data-i18n="contactViberLabel">Viber:</span>
               <a
-                href="viber://chat?number=%2B380958552330"
+                href="viber://chat?number=%2B380501721785"
                 data-i18n="contactViberLink"
-                >+380 95 855 2330</a
+                >+380 50 172 1785</a
               >
             </li>
             <li>
@@ -505,10 +505,10 @@
               ></span>
               <span data-i18n="contactWhatsAppLabel">WhatsApp:</span>
               <a
-                href="https://wa.me/380958552330"
+                href="https://wa.me/380501721785"
                 target="_blank"
                 data-i18n="contactWhatsAppLink"
-                >+380 95 855 2330</a
+                >+380 50 172 1785</a
               >
             </li>
             <li>
